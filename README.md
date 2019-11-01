@@ -2,7 +2,7 @@
 
 Calendario realizado con vuejs, vuetify y firebase
 
-[Prueba el calendario aquí](https://www.google.com)
+[Prueba el calendario aquí](https://calendar-vuejs.web.app/)
 
 ![alt text](./img/vue-calendar.png "Imagen de ejemplo del calendario")
 
